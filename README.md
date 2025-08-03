@@ -1,6 +1,6 @@
 # 🧑‍💼 Mini LinkedIn Community Platform
 
-A mini LinkedIn-like platform built as a Full Stack Development internship project. Users can register, create posts, view public feeds, and manage profiles.
+The Mini LinkedIn Community Platform is a simplified social network app where users can register, log in, create posts, view a public feed, and explore profiles. It supports role-based access and mimics key LinkedIn features with a clean, responsive UI.
 
 ---
 
