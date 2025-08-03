@@ -8,7 +8,6 @@ The Mini LinkedIn Community Platform is a simplified social network app where us
 
 Frontend: [https://mini-linkedin-community-platform-ha.vercel.app](https://mini-linkedin-community-platform-ha.vercel.app)  
 Backend API: [https://mini-linkedin-community-platform.onrender.com](https://mini-linkedin-community-platform.onrender.com)
-
 [https://mini-linkedin-community-platform.onrender.com/api/posts](https://mini-linkedin-community-platform.onrender.com/api/posts)
 
 
