@@ -119,8 +119,5 @@ GitHub: [https://github.com/BonagiriSahithya](https://github.com/BonagiriSahithy
 
 ---
 
-```
 
-Let me know if you want help pushing this to your GitHub repo or attaching it for email submission.
-```
 
